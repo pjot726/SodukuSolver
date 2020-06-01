@@ -5,8 +5,8 @@ I used some of my code from a class assignment to implement my solution, as well
 
 To run this program, use the GNU Prolog console, and run the sudokuSolver rule as follows:
 
-'''
+```
 sudokuSolver(X).
-'''
+```
 
-See '''test.pl''' for sample test cases.
+See ```test.pl``` for sample test cases.
